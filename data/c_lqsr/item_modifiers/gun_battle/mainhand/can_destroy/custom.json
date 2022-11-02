@@ -1,0 +1,4 @@
+[{
+    "function": "minecraft:set_nbt",
+    "tag": "{CanDestroy:[\"minecraft:cobblestone\",\"minecraft:coal_ore\",\"minecraft:iron_ore\",\"minecraft:lapis_ore\",\"minecraft:diamond_ore\"]}"
+}]

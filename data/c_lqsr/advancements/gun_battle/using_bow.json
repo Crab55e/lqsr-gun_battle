@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:bow"
+                    ],
+                    "nbt": "{lq.gun_battle.bow:1}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "c_lqsr:player/gun_battle/using_bow"
+    }
+}

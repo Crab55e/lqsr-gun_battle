@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+        "dimension": "mets:superflat",
+        "block": {
+            "blocks": [
+                "minecraft:tall_grass"
+            ]
+        }
+    }
+}

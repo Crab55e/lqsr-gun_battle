@@ -1,0 +1,13 @@
+{
+    "pools": [{
+        "rolls": 1,
+        "entries": [{
+            "type": "minecraft:item",
+            "name": "minecraft:elytra",
+            "functions": [{
+                "function": "minecraft:set_nbt",
+                "tag": "{NoAdvancements:1b,lq.gun_battle:1}"
+            }]
+        }]
+    }]
+}

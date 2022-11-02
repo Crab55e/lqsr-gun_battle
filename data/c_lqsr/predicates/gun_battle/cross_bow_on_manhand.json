@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "equipment": {
+            "mainhand": {
+                "items": [
+                    "minecraft:crossbow"
+                ],
+                "nbt": "{lq.gun_battle.cross_bow:1,Charged:0b}"
+            }
+        }
+    }
+}
